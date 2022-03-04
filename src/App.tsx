@@ -68,8 +68,6 @@ const App = () => {
 
   }
 
-  console.log(questions);
-
   return (
     <div>
       <GlobalStyle />
